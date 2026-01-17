@@ -1,0 +1,17 @@
+timestamp,location,pipe_id,water_flow_lpm,status
+2025-01-10 08:00,Chennai,P101,40,normal
+2025-01-10 08:05,Chennai,P101,42,normal
+2025-01-10 08:10,Chennai,P101,120,anomaly
+2025-01-10 08:15,Chennai,P101,135,anomaly
+2025-01-10 08:20,Chennai,P101,138,critical
+2025-01-10 08:25,Chennai,P101,130,anomaly
+2025-01-10 08:30,Chennai,P101,125,anomaly
+2025-01-10 08:35,Chennai,P101,60,normalizing
+2025-01-10 08:40,Chennai,P101,45,normal
+2025-01-10 08:45,Chennai,P101,42,normal
+2025-01-10 08:50,Chennai,P101,41,normal
+2025-01-10 08:55,Chennai,P101,150,anomaly
+2025-01-10 09:00,Chennai,P101,160,critical
+2025-01-10 09:05,Chennai,P101,155,critical
+2025-01-10 09:10,Chennai,P101,50,normal
+2025-01-10 09:15,Chennai,P101,48,normal
