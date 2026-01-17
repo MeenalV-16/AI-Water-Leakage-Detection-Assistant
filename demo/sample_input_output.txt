@@ -1,0 +1,16 @@
+INPUT:
+Water flow data from sample_water_usage.csv
+
+AI ANALYSIS:
+- Normal flow range detected: 40–45 LPM
+- Sudden spike to 120 LPM detected
+- Abnormal pattern continues for multiple readings
+
+OUTPUT:
+🚨 Water Leakage Alert 🚨
+Location: Chennai
+Pipe ID: P101
+Severity: Critical
+
+Recommendation:
+Immediate inspection is required to prevent water loss.
